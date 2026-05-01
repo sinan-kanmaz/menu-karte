@@ -1,0 +1,7 @@
+<svg fill="none"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298 12" class="seperator-line">
+    <path fill="#CA9E67" d="M.875 5.285h296.25v1.057H.875zM94.625 0h108.75v1.057H94.625z"></path>
+    <path d="M89 5.812 92.75.528h2.063M209.188 5.812l-3.75-5.284h-2.063" stroke="#CA9E67" stroke-width=".75"></path>
+    <path fill="#CA9E67" d="M94.625 11.625h108.75v-1.057H94.625z"></path>
+    <path d="m89 5.813 3.75 5.284h2.063M209.188 5.813l-3.75 5.284h-2.063" stroke="#CA9E67" stroke-width=".75"></path>
+</svg>

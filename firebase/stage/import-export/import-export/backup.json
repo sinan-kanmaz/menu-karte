@@ -1,0 +1,453 @@
+{
+  "__collections__": {
+ 
+    "users": {
+      "FHMo66JdzFQ4Lfc37MhG1xrQse82": {
+        "uid": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+        "phoneNumber": "",
+        "address": {
+          "zipcode": "",
+          "country": "",
+          "no": "",
+          "town": "",
+          "city": "",
+          "street": "",
+          "state": "",
+          "additionalAddress": ""
+        },
+        "email": "pontgarten@pontgarten.com",
+        "contactNumber": "null",
+        "path": "pontgarten",
+        "name": "Pontgarten",
+        "menuStyle": 1,
+        "restaurantLogo": "https://firebasestorage.googleapis.com/v0/b/my-digi-menu-stage.appspot.com/o/avatars%2FFHMo66JdzFQ4Lfc37MhG1xrQse82?alt=media&token=a77bdf1d-4706-475e-b04d-b78f2331e392",
+        "menuTabs": [
+          {
+            "de": "In Haus",
+            "en": "In Haus",
+            "nl": "In House",
+            "tr": "Ana Menü"
+          },
+          {
+            "de": "GETRÄNKE",
+            "en": "BEVERAGES",
+            "nl": "DRANKEN",
+            "tr": "İÇECEKLER"
+          },
+          {
+            "de": "MITTAGSKARTE",
+            "en": "LUNCH CARD",
+            "nl": "LUNCHKAART",
+            "tr": "ÖĞLE YEMEĞİ"
+          }
+        ],
+        "restaurantStyle": 1,
+        "__collections__": {
+          "categories": {
+            "53rI4TmECO6AZuXbkaZj": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "GEFÜLLTE PIZZABRÖTCHEN",
+                "description": ""
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 6,
+              "translated": {
+                "name": {
+                  "de": "GEFÜLLTE PIZZABRÖTCHEN",
+                  "en": "FILLED PIZZA ROLLS",
+                  "nl": "GEVULDE PIZZABROODJES",
+                  "tr": "DOLGULU PİZZA RULOLARI"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "6LN2s6CooW95uFpFt1mW": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "GOURMET BURGER",
+                "description": "(ca. 180g) Alle Burger werden mit gemischtem Salat und Potato Wedges serviert.\nAuf Wunsch Doppeltfleisch Upgrade +3,00€"
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 13,
+              "translated": {
+                "name": {
+                  "de": "GOURMET-BURGER",
+                  "en": "GOURMET BURGER",
+                  "nl": "GOURMET HAMBURGER",
+                  "tr": "GURME BURGER"
+                },
+                "description": {
+                  "de": "(ca. 180g) Alle Burger werden mit gemischtem Salat und Potato Wedges serviert.\nAuf Wunsch Doppeltfleisch Upgrade +3,00€",
+                  "en": "(approx. 180g) All burgers are served with mixed salad and potato wedges.\nOn request, double meat upgrade +€3.00",
+                  "nl": "(ca. 180 g) Alle burgers worden geserveerd met gemengde salade en aardappelpartjes.\nOp aanvraag dubbele vleesupgrade +€ 3,00",
+                  "tr": "(yaklaşık 180gr) Tüm burgerler karışık salata ve patates dilimleri ile servis edilir.\nTalep üzerine çift et iyileştirmesi +3,00 €"
+                }
+              },
+              "__collections__": {}
+            },
+            "84t6IHM4zZXDI3zAAWah": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "SCHNITZEL",
+                "description": "Wählen Sie zwischen Hähnchen oder Schwein"
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 14,
+              "translated": {
+                "name": {
+                  "de": "SCHNITZEL",
+                  "en": "SCHNITZEL",
+                  "nl": "SCHNITZEL",
+                  "tr": "ŞNİTZEL"
+                },
+                "description": {
+                  "de": "Wählen Sie zwischen Hähnchen oder Schwein",
+                  "en": "Choose between chicken or pork",
+                  "nl": "Kies tussen kip of varkensvlees",
+                  "tr": "Tavuk veya domuz eti arasında seçim yapın"
+                }
+              },
+              "__collections__": {}
+            },
+            "CRYiIm48YPU1m3NKenSK": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "DIPS", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 3,
+              "translated": {
+                "name": {
+                  "de": "DIPS",
+                  "en": "DIPS",
+                  "nl": "DIPS",
+                  "tr": "DIP'ler"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "DHz59xksHF1jDT3ubGjT": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "AUFLÄUFE", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 9,
+              "translated": {
+                "name": {
+                  "de": "AUFLÄUFE",
+                  "en": "CASSEROLES",
+                  "nl": "Braadpannen",
+                  "tr": "GÜVEÇLER"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "GShObaJsd65YxRSsIn1Z": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "WARME VORSPEISEN",
+                "description": ""
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 5,
+              "translated": {
+                "name": {
+                  "de": "WARME VORSPEISEN",
+                  "en": "WARM STARTERS",
+                  "nl": "WARME VOORGERECHTEN",
+                  "tr": "SICAK BAŞLANGIÇLAR"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "K1lFIiSS9YxpeAtEadwa": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "SALATE",
+                "description": "serviert mit hausgemachtem Brot"
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 7,
+              "translated": {
+                "name": {
+                  "de": "SALAT",
+                  "en": "SALAD",
+                  "nl": "SALADE",
+                  "tr": "SALATA"
+                },
+                "description": {
+                  "de": "serviert mit hausgemachtem Brot",
+                  "en": "served with homemade bread",
+                  "nl": "geserveerd met zelfgebakken brood",
+                  "tr": "ev yapımı ekmekle servis edilir"
+                }
+              },
+              "__collections__": {}
+            },
+            "NlgSzsrJVLZX8mjypBxB": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "VOM HOLZKOHLENGRILL",
+                "description": "serviert mit Grill-Paprika, Tomaten, Dips und Weizentortilla"
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 16,
+              "translated": {
+                "name": {
+                  "de": "VOM HOLZKOHLENGRILL",
+                  "en": "FROM THE CHARCOAL GRILL",
+                  "nl": "VAN DE HOUTSKOOLGRILL",
+                  "tr": "KÖMÜR IZGARADAN"
+                },
+                "description": {
+                  "de": "serviert mit Grill-Paprika, Tomaten, Dips und Weizentortilla",
+                  "en": "served with grilled peppers, tomatoes, dips and flour tortilla",
+                  "nl": "geserveerd met gegrilde paprika, tomaten, dips en bloemtortilla",
+                  "tr": "ızgara biber, domates, sos ve un tortilla ile servis edilir"
+                }
+              },
+              "__collections__": {}
+            },
+            "OVwaSOojK7Ciwps61j3F": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "SNACKS", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 2,
+              "translated": {
+                "name": {
+                  "de": "SNACKS",
+                  "en": "SNACKS",
+                  "nl": "SNACKS",
+                  "tr": "ATIŞTIRMALIKLAR"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "VYf6mtSPZgWroYZTa44Z": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "SUPPEN", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 1,
+              "translated": {
+                "name": {
+                  "de": "DIE SUPPE",
+                  "en": "THE SOUP",
+                  "nl": "DE SOEP",
+                  "tr": "ÇORBA"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "WfV4cONyFS8PYtG0jqgP": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "ISKENDER", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 16,
+              "translated": {
+                "name": {
+                  "de": "ISKENDER",
+                  "en": "ISKENDER",
+                  "nl": "ISKENDER",
+                  "tr": "ISKENDER"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "WoVUWjyaMovXPgOR0v4Q": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "AUS DER PFANNE",
+                "description": ""
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 12,
+              "translated": {
+                "name": {
+                  "de": "AUS DER PFANNE",
+                  "en": "FROM THE PAN",
+                  "nl": "UIT DE PAN",
+                  "tr": "TAVADAN"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "kCu4HUWGPhqAeZnQqesa": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "SCALOPPINE & MEDAILLONS",
+                "description": "VOM SCHWEIN"
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 15,
+              "translated": {
+                "name": {
+                  "de": "SKALOPPINEN & MEDAILLONS",
+                  "en": "SCALOPPINE & MEDAILLONS",
+                  "nl": "SCALOPPINE & MEDAILLONS",
+                  "tr": "SKALOPPİN VE MADALLONLAR"
+                },
+                "description": {
+                  "de": "VOM SCHWEIN",
+                  "en": "FROM PORK",
+                  "nl": "VAN VARKENSVLEES",
+                  "tr": "DOMUZDAN"
+                }
+              },
+              "__collections__": {}
+            },
+            "neHNszSWNCfjOinpUspu": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "PIZZA", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 10,
+              "translated": {
+                "name": {
+                  "de": "PIZZA",
+                  "en": "PIZZA",
+                  "nl": "PIZZA",
+                  "tr": "PİZZA"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "pX1tLbsTn9hHBjQARm4e": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "KALTE VORSPEISEN",
+                "description": ""
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 4,
+              "translated": {
+                "name": {
+                  "de": "KALTE VORSPEISEN",
+                  "en": "COLD APPETIZERS",
+                  "nl": "KOUDE VOORGERECHTEN",
+                  "tr": "SOĞUK MEZELER"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            },
+            "sFqme2vFWvrCw2Jcy0Uy": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": {
+                "name": "FAJITAS",
+                "description": "mit Weizentortillas, Salsa, Sour Cream und geriebenem Gouda"
+              },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 11,
+              "translated": {
+                "name": {
+                  "de": "FAJITAS",
+                  "en": "FAJITAS",
+                  "nl": "FAJITAS",
+                  "tr": "FAJİTALAR"
+                },
+                "description": {
+                  "de": "mit Weizentortillas, Salsa, Sour Cream und geriebenem Gouda",
+                  "en": "with flour tortillas, salsa, sour cream and grated Gouda",
+                  "nl": "met bloemtortilla's, salsa, zure room en geraspte Gouda",
+                  "tr": "un ekmeği, salsa, ekşi krema ve rendelenmiş Gouda ile"
+                }
+              },
+              "__collections__": {}
+            },
+            "yWNZe5CCgXYoqxRgp3kT": {
+              "categoryImage": null,
+              "tab": "In Haus",
+              "translateValues": { "name": "PASTA", "description": "" },
+              "id": null,
+              "restaurantId": "FHMo66JdzFQ4Lfc37MhG1xrQse82",
+              "status": null,
+              "order": 8,
+              "translated": {
+                "name": {
+                  "de": "PASTA",
+                  "en": "PASTA",
+                  "nl": "PASTA",
+                  "tr": "MAKARNA"
+                },
+                "description": { "de": "", "en": "", "nl": "", "tr": "" }
+              },
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "d4VDRN20R5ZA74SFsQ1DmFjlQ6r2": {
+        "uid": "d4VDRN20R5ZA74SFsQ1DmFjlQ6r2",
+        "phoneNumber": "",
+        "address": {
+          "zipcode": "",
+          "country": "",
+          "no": "",
+          "town": "",
+          "city": "",
+          "street": "",
+          "state": "",
+          "additionalAddress": ""
+        },
+        "name": "Sinan Kanmaz",
+        "email": "digimenu@stage.com",
+        "role": "admin",
+        "__collections__": {}
+      }
+    }
+  }
+}
