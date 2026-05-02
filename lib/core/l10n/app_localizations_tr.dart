@@ -335,7 +335,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get your_password_has_been_changed_successfully =>
-      'Your password has been changed successfully.';
+      'Şifreniz başarıyla değiştirildi.';
 
   @override
   String get yourNewPasswordMustBeDifferentFromPrevioususedPassword =>

@@ -17,6 +17,7 @@ import 'package:qrmenu/screens/settings_screen/setting_screen.dart';
 
 import 'widgets/categories_widget.dart';
 import 'widgets/menus_by_category_card.dart';
+import 'widgets/style_three_widget.dart';
 
 class RestaurantDetailScreen extends ConsumerStatefulWidget {
   final String restaurantId;
@@ -127,6 +128,13 @@ class _RestaurantDetailScreenState
 
     if (restaurant?.restaurantStyle == 1) {
       return StyleTwoWidget(
+        restaurant: restaurant!,
+        categories: categoryList,
+        menus: menus,
+        tabs: tabs,
+      );
+    } else if (restaurant?.restaurantStyle == 2) {
+      return StyleThreeWidget(
         restaurant: restaurant!,
         categories: categoryList,
         menus: menus,

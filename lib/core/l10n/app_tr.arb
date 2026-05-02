@@ -101,5 +101,6 @@
   "welcomeBackHaveANiceDay": "Hoşgeldiniz. İyi günler",
   "welcomeBackYouHaveBeenMissedForLongTime": "Tekrar hoş geldiniz, \n Sizi özledik",
   "welcomeToApp": "{name}'e Hoşgeldiniz",
+  "your_password_has_been_changed_successfully": "Şifreniz başarıyla değiştirildi.",
   "yourNewPasswordMustBeDifferentFromPrevioususedPassword": "Yeni şifreniz daha önce kullandığınız şifreden farklı olmalıdır"
 }

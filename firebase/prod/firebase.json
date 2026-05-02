@@ -20,11 +20,11 @@
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
       {
-        "source": "/service-worker.js",
+        "source": "**/*.+(js|css|png|jpg|jpeg|gif|webp|svg|woff|woff2|ttf|wasm)",
         "headers": [
           {
             "key": "Cache-Control",
-            "value": "no-cache"
+            "value": "public, max-age=31536000, immutable"
           }
         ]
       }
