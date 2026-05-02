@@ -33,7 +33,7 @@ ThemeData darkTheme = ThemeData(
   unselectedWidgetColor: Colors.white60,
   dividerColor: Colors.white12,
   cardColor: AppPalette.scaffoldSecondaryDark,
-  dialogTheme: DialogTheme(shape: dialogShape()),
+  dialogTheme: DialogThemeData(shape: dialogShape()),
   checkboxTheme: CheckboxThemeData(
     fillColor: MaterialStateProperty.all(Colors.white),
     checkColor: MaterialStateProperty.all(Colors.black),

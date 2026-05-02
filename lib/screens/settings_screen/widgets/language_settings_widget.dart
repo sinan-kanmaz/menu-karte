@@ -5,7 +5,7 @@ import 'package:nb_utils/nb_utils.dart';
 import 'package:qrmenu/core/extensions.dart';
 import 'package:qrmenu/core/global_providers/settings_box.dart';
 import 'package:qrmenu/core/theme/app_palette.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import '../../../../core/l10n/app_localizations.dart';
 
 class LanguageScreen extends StatelessWidget {
   const LanguageScreen({super.key});

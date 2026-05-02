@@ -1,24 +1,22 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:qrmenu/core/extensions.dart';
 import 'package:qrmenu/core/repositories/auth_repository.dart';
-import 'package:riverpod_annotation/riverpod_annotation.dart';
 
-part 'auth_state_provider.g.dart';
+final authStateProvider = StateNotifierProvider<AuthState, User?>((ref) {
+  return AuthState(ref);
+});
 
-@Riverpod(keepAlive: true)
-class AuthState extends _$AuthState {
-  AuthState() {
+class AuthState extends StateNotifier<User?> {
+  final Ref ref;
+
+  AuthState(this.ref) : super(null) {
     listenUserChanges();
   }
-  @override
-  User? build() {
-    state = null;
-    return state;
-  }
 
-  listenUserChanges() {
+  void listenUserChanges() {
     FirebaseAuth.instance.authStateChanges().listen((event) {
       state = event;
     });

@@ -34,7 +34,7 @@ ThemeData lightTheme = ThemeData(
   unselectedWidgetColor: Colors.black,
   dividerColor: AppPalette.borderColor,
   cardColor: Colors.white,
-  dialogTheme: DialogTheme(shape: dialogShape()),
+  dialogTheme: DialogThemeData(shape: dialogShape()),
   appBarTheme: const AppBarTheme(
     systemOverlayStyle: SystemUiOverlayStyle(
         statusBarIconBrightness: Brightness.dark,
@@ -49,7 +49,7 @@ ThemeData lightTheme = ThemeData(
     fillColor: MaterialStateProperty.all(AppPalette.primaryColor),
     overlayColor: MaterialStateProperty.all(const Color(0xFF5D5F6E)),
   ),
-  tabBarTheme: const TabBarTheme(
+  tabBarTheme: const TabBarThemeData(
       labelColor: Colors.black, unselectedLabelColor: Colors.grey),
 ).copyWith(
   pageTransitionsTheme: const PageTransitionsTheme(

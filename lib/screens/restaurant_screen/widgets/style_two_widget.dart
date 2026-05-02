@@ -12,7 +12,7 @@ import 'package:qrmenu/core/utils/cached_network_image.dart';
 import 'package:qrmenu/core/utils/constants.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:qrmenu/screens/widgets/full_screen_image_widget.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import '../../../../core/l10n/app_localizations.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class StyleTwoWidget extends StatefulWidget {
